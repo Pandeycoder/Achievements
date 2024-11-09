@@ -1,0 +1,28 @@
+step 1: Microsoft 2013 word office professional key : YC7DK-G2NP3-2QQC3-J6H88-GVGXT
+
+	/>cscript "C:\Program Files\Microsoft Office\Office15\ospp.vbs" /dstatus\
+
+	C:\Windows\System32>cscript "C:\Program Files\Microsoft Office\Office15\ospp.vbs" /dstatus
+
+step 2: 
+	/> cscript ospp.vbs /inpkey:YC7DK-G2NP3-2QQC3-J6H88-GVGXT
+
+
+step3: 
+	/>cscript "C:\Program Files\Microsoft Office\Office15\ospp.vbs" /sethst:kms9.msguides.com
+
+
+
+
+
+Steps to Access and Run ospp.vbs Commands
+Navigate to the Office Directory:
+
+cd "C:\Program Files\Microsoft Office\Office15"
+
+cscript ospp.vbs /dstatus
+
+Activate Office:
+/>  cscript "C:\Program Files\Microsoft Office\Office15\ospp.vbs" /sethst:kms9.msguides.com
+
+cscript ospp.vbs /act
